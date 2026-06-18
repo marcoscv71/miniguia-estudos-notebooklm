@@ -6,8 +6,6 @@ Repositório criado para o primeiro desafio de projeto do **Bootcamp Bradesco - 
 
 ## Contexto e Objetivos
 
-Esse é um repositório para o primeiro desafio do Bootcamp Bradesco - GenAI, Dados e Cyber. Nesse primeiro desafio, o objetivo é se familiarizar com o uso do NotebookLM, uma ferramenta de IA do Google para facilitar o estudo, que possibilita carregar fontes de várias formas (PDF, Sites, vídeos do YouTube), e extrair informações das fontes através de perguntas ou outros tipos de criações disponíveis.
-
 * **Tema Escolhido para o Caderno Temático:** Testes de Software (*Fundamentals of Software Testing*).
 * **Justificativa e Objetivo de Estudo:** Como profissional atuante na área de desenvolvimento e garantia de qualidade, o objetivo deste material é aprofundar os conhecimentos conceituais e teóricos sobre testes, alinhando a prática diária às metodologias e padrões consolidados do mercado para elevar o nível técnico das entregas.
 
@@ -81,7 +79,17 @@ Para esclarecer a diferença de escopo e aplicação prática no dia a dia do QA
 ## 📖 Miniguia de Estudo
 
 ### 1. Resumos Estruturados do Assunto
-[Insira aqui a síntese consolidada das principais seções do guia, abordando conceitos como Princípios de Testes, Caixa Preta vs. Caixa Branca, Ciclo de Vida de Bug, etc.]
+O material *Fundamentals of Software Testing: A Complete Guide* estabelece a base teórica e metodológica necessária para garantir a qualidade de artefatos de software durante todo o seu ciclo de vida. Abaixo estão os tópicos centrais consolidados:
+
+#### A. Os 7 Princípios dos Testes de Software
+Os testes são guiados por regras fundamentais que alinham as expectativas do negócio à realidade técnica:
+1. **Os testes mostram a presença de defeitos, não a ausência:** Testar reduz a probabilidade de falhas ocultas, mas não prova que o software está 100% livre de erros.
+2. **Testes exaustivos são impossíveis:** Testar todas as combinações de dados e caminhos lógicos é inviável. A estratégia deve focar em gerenciamento de riscos e priorização.
+3. **Testes antecipados (Early Testing):** Iniciar as atividades de QA o quanto antes no ciclo de vida de desenvolvimento (SDLC) reduz drasticamente o custo de correção de bugs.
+4. **Agrupamento de defeitos (Defect Clustering):** Geralmente, a maior parte dos bugs se concentra em um número pequeno de módulos (aplicação do Princípio de Pareto / Regra 80/20).
+5. **Paradoxo do Pesticida:** Se os mesmos testes forem repetidos continuamente, eles deixarão de encontrar novos defeitos. Os cenários de testes devem ser revisados e atualizados constantemente.
+6. **Teste depende do contexto:** O modo como testamos um e-commerce difere completamente de como testamos um software médico ou um sistema bancário.
+7. **A ilusão da ausência de erros:** Encontrar e corrigir defeitos não ajuda se o sistema construído for inutilizável ou não atender às reais necessidades do usuário.
 
 ### 2. Glossário 
 * **Testes de Caixa Preta:** Técnica de teste baseada estritamente nos requisitos e especificações, sem olhar o código-fonte interno.
