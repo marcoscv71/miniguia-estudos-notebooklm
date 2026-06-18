@@ -76,7 +76,7 @@ Para esclarecer a diferença de escopo e aplicação prática no dia a dia do QA
 
 ---
 
-## 📖 Miniguia de Estudo
+## Miniguia de Estudo
 
 ### 1. Resumos Estruturados do Assunto
 O material *Fundamentals of Software Testing: A Complete Guide* estabelece a base teórica e metodológica necessária para garantir a qualidade de artefatos de software durante todo o seu ciclo de vida. Abaixo estão os tópicos centrais consolidados:
@@ -104,7 +104,7 @@ Abaixo estão os comandos estruturados criados durante este desafio que podem se
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 * Google NotebookLM
 * GitHub
@@ -112,7 +112,7 @@ Abaixo estão os comandos estruturados criados durante este desafio que podem se
 
 ---
 
-## 🙋‍♂️ Autor
+## Autor
 
 * Marcos Vinícius Silva
 * [Meu LinkedIn](https://www.linkedin.com/in/marcoscv71/)
